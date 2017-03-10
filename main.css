@@ -45,17 +45,19 @@ li a {
 /* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: lightblue;
-    border-radius: 5px;
 }
 
 
 #footer {
 	position: absolute;
 	list-style-type: none;
-	left: 20%;
+	left: 10%;
 	bottom: 0;
+	width: 100%;
 
 }
+
+
 
 #LeftNav {
 	background-color: lightblue;
@@ -80,5 +82,10 @@ div p {
 	background-color: grey;
 	height: 25px;
 	vertical-align: bottom;
+}
+
+button {
+	margin: auto;
+	display: block;
 }
 
