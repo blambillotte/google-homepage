@@ -20,6 +20,10 @@ input[type=search]:focus {
     width: 70%;
 }
 
+input[type=text] {
+   width: 80%
+
+}
 
 #header {
     list-style-type: none;
@@ -80,7 +84,7 @@ div p {
 
 #bottomBox {
 	background-color: grey;
-	height: 25px;
+	height: 35px;
 	vertical-align: bottom;
 }
 
